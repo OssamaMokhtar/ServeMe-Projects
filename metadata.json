@@ -1,0 +1,6 @@
+{
+  "name": "ServeMe",
+  "description": "QR-based split-by-item payment flow for restaurants. Faster checkout, less friction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
