@@ -4,6 +4,10 @@
 
 `TypeScript` · `React` · `Vite`
 
+<img src="docs/screenshot.png" alt="ServeMe split check" width="380">
+
+*Three items selected, $34.00 owed - each diner settles only what they ordered.*
+
 ---
 
 ## The problem
